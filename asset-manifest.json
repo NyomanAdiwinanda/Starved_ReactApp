@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Starved_ReactApp/static/css/main.59770e2a.chunk.css",
+    "main.js": "/Starved_ReactApp/static/js/main.3f033c67.chunk.js",
+    "main.js.map": "/Starved_ReactApp/static/js/main.3f033c67.chunk.js.map",
+    "runtime-main.js": "/Starved_ReactApp/static/js/runtime-main.65f743fb.js",
+    "runtime-main.js.map": "/Starved_ReactApp/static/js/runtime-main.65f743fb.js.map",
+    "static/js/2.030235a6.chunk.js": "/Starved_ReactApp/static/js/2.030235a6.chunk.js",
+    "static/js/2.030235a6.chunk.js.map": "/Starved_ReactApp/static/js/2.030235a6.chunk.js.map",
+    "index.html": "/Starved_ReactApp/index.html",
+    "precache-manifest.3e1354b3803f8470e16e6d33d4146523.js": "/Starved_ReactApp/precache-manifest.3e1354b3803f8470e16e6d33d4146523.js",
+    "service-worker.js": "/Starved_ReactApp/service-worker.js",
+    "static/css/main.59770e2a.chunk.css.map": "/Starved_ReactApp/static/css/main.59770e2a.chunk.css.map",
+    "static/js/2.030235a6.chunk.js.LICENSE.txt": "/Starved_ReactApp/static/js/2.030235a6.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/Starved_ReactApp/static/media/background_search_mobile.082e88ec.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65f743fb.js",
+    "static/js/2.030235a6.chunk.js",
+    "static/css/main.59770e2a.chunk.css",
+    "static/js/main.3f033c67.chunk.js"
+  ]
+}
