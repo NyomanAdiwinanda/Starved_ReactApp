@@ -1,6 +1,7 @@
 ## About Starved React App
 
 Starved is my first ever built web-app using one of the popular javascript framework [React Js](https://reactjs.org/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### What Does The Web-App Do?
@@ -11,9 +12,10 @@ This web-app is using the [Yelp API](https://www.yelp.com/developers/documentati
 
 You can try to use the app by clicking it [here](https://nyomanadiwinanda.github.io/Starved_ReactApp/).
 Within the web-app:
-1) Insert the type of food within the 'Search Businesses' bar
-2) Insert the name of the city (United State city only) with the 'Where?' bar
+1) Insert the type of food or restaurant name within the 'Search Businesses' bar
+2) Insert the name of the city (United State city only) within the 'Where?' bar
 3) Click the Let's Go Button
+
 The web-app then will show you the list of restaurant accordingly to your search.
 
 ## Available Scripts
